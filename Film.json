@@ -6,40 +6,56 @@
     "Directeur": "Kyle Balda, Pierre Coffin",
     "Auteur": "Brian Lynch,",
     "Date": 2015,
+    "Description": "Stuart, Kevin et Bob sont recrutés par Scarlet Overkill, une super-vilaine qui, aux côtés de son inventeur de mari Herb, élabore un complot pour conquérir le monde."
     "Vedette": [
       {
         "Nom": "Sandra Bullock",
+        "Age": 51,
         "Personnage": "Scarlet Overkill (voix)"
       },
       {
         "Nom": "Jon Hamm",
+        "Age": 44,
         "Personnage": "Herb Overkill  (voix)"
       },
       {
         "Nom": "Michael Keaton",
+        "Age": 64,
         "Personnage": "Walter Nelson (voix)"
       }
-    ]
+    ],
+        "Budget": $74000000,
+        "FDS d'ouverture": $115718405,
+        "Total USA": $336045770,
+        "Total mondial": $1159443203
     },
     {
-        "Titre": "Les Minions",
-        "Directeur": "Kyle Balda, Pierre Coffin",
-        "Auteur": "Brian Lynch,",
-        "Date": 2015,
+        "Titre": "Fight Club",
+        "Directeur": "David Fincher",
+        "Auteur": "Chuck Palahniuk, Jim Uhls",
+        "Date": 1999,
+        "Description": "Je ne suis pas supposé en parler..."
         "Vedette": [
           {
-            "Nom": "Sandra Bullock",
-            "Personnage": "Scarlet Overkill (voix)"
+            "Nom": "Brad Pitt",
+            "Age":36,
+            "Personnage": "Tyler Durden"
           },
           {
-            "Nom": "Jon Hamm",
-            "Personnage": "Herb Overkill  (voix)"
+            "Nom": "Edward Norton",
+            "Age": 30,
+            "Personnage": "Narrateur / Personnage principal"
           },
           {
-            "Nom": "Michael Keaton",
-            "Personnage": "Walter Nelson (voix)"
+            "Nom": "Helena Bonham Carter",
+            "Age": 33,
+            "Personnage": "Marla Singer"
           }
-        ]
+        ],
+        "Budget": $63000000,
+        "FDS d'ouverture": $11035485,
+        "Total USA": $37030102,
+        "Total mondial": $101218804
         }
 ]
 }
