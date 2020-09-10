@@ -7,7 +7,7 @@
     "Auteur": "Brian Lynch,",
     "Date": 2015,
     "Description": "Stuart, Kevin et Bob sont recrutés par Scarlet Overkill, une super-vilaine qui, aux côtés de son inventeur de mari Herb, élabore un complot pour conquérir le monde."
-    "Vedette": [
+    "Vedette" [
       {
         "Nom": "Sandra Bullock",
         "Age": 51,
@@ -35,7 +35,7 @@
         "Auteur": "Chuck Palahniuk, Jim Uhls",
         "Date": 1999,
         "Description": "Je ne suis pas supposé en parler..."
-        "Vedette": [
+        "Vedette" [
           {
             "Nom": "Brad Pitt",
             "Age":36,
