@@ -1,29 +1,28 @@
 {
-    "Films":  
-[
+    "Films": [ 
     {
-    "Titre": "Les Minions",
-    "Directeur": "Kyle Balda, Pierre Coffin",
-    "Auteur": "Brian Lynch,",
-    "Date": 2015,
-    "Description": "Stuart, Kevin et Bob sont recrutés par Scarlet Overkill, une super-vilaine qui, aux côtés de son inventeur de mari Herb, élabore un complot pour conquérir le monde."
-    "Vedette" [
-      {
-        "Nom": "Sandra Bullock",
-        "Age": 51,
-        "Personnage": "Scarlet Overkill (voix)"
-      },
-      {
-        "Nom": "Jon Hamm",
-        "Age": 44,
-        "Personnage": "Herb Overkill  (voix)"
-      },
-      {
-        "Nom": "Michael Keaton",
-        "Age": 64,
-        "Personnage": "Walter Nelson (voix)"
-      }
-    ],
+        "Titre": "Les Minions",
+        "Directeur": "Kyle Balda, Pierre Coffin",
+        "Auteur": "Brian Lynch,",
+        "Date": 2015,
+        "Description": "Stuart, Kevin et Bob sont recrutés par Scarlet Overkill, une super-vilaine qui, aux côtés de son inventeur de mari Herb, élabore un complot pour conquérir le monde.",
+        "Vedette" : [
+          {
+            "Nom": "Sandra Bullock",
+            "Age": 51,
+            "Personnage": "Scarlet Overkill (voix)"
+          },
+          {
+            "Nom": "Jon Hamm",
+            "Age": 44,
+            "Personnage": "Herb Overkill  (voix)"
+          },
+          {
+            "Nom": "Michael Keaton",
+            "Age": 64,
+            "Personnage": "Walter Nelson (voix)"
+          }
+        ],
         "Budget": "$74,000,000",
         "FDS d'ouverture": "$115,718,405",
         "Total USA": "$336,045,770",
@@ -34,8 +33,8 @@
         "Directeur": "David Fincher",
         "Auteur": "Chuck Palahniuk, Jim Uhls",
         "Date": 1999,
-        "Description": "Je ne suis pas supposé en parler..."
-        "Vedette" [
+        "Description": "Je ne suis pas supposé en parler...",
+        "Vedette": [
           {
             "Nom": "Brad Pitt",
             "Age":36,
